@@ -59,4 +59,5 @@ Este projeto não apenas alcançou seus objetivos principais, mas também fornec
 Agradeço a todos que acompanharam este projeto e espero que ele possa inspirar e ajudar outros entusiastas de banco de dados e análise de dados.
 
 Tiago Fernando Piveta
+
 Desenvolvedor do Projeto Sophia
