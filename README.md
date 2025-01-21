@@ -1,4 +1,5 @@
 Projeto Sophia
+
 Olá! Meu nome é Tiago Fernando Piveta, e este é o Projeto Sophia, um sistema de banco de dados desenvolvido para gerenciar informações acadêmicas de uma instituição de ensino. O objetivo principal deste projeto foi criar um banco de dados robusto e eficiente que permitisse a análise de desempenho dos alunos, o acompanhamento de turmas, disciplinas e professores, além de fornecer insights valiosos para a gestão acadêmica.
 
 Visão Geral do Projeto
