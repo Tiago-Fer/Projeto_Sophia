@@ -11,46 +11,46 @@ Principais Funcionalidades
 
 1. Cadastro de Alunos, Professores e Disciplinas:
 
-• O sistema permite o cadastro detalhado de alunos, incluindo informações como nome, data de nascimento, contato e endereço.
+  • O sistema permite o cadastro detalhado de alunos, incluindo informações como nome, data de nascimento, contato e endereço.
 
-• Professores são cadastrados com suas especialidades, e-mails e status (ativo/inativo).
+  • Professores são cadastrados com suas especialidades, e-mails e status (ativo/inativo).
 
-• Disciplinas são registradas com suas respectivas cargas horárias.
+  • Disciplinas são registradas com suas respectivas cargas horárias.
 
 2. Gestão de Turmas e Períodos Letivos:
 
-• As turmas são organizadas por série, turno e ano letivo, com um identificador único gerado automaticamente.
+  • As turmas são organizadas por série, turno e ano letivo, com um identificador único gerado automaticamente.
 
-• Períodos letivos são cadastrados com datas de início e término, permitindo o acompanhamento do calendário acadêmico.
+  • Períodos letivos são cadastrados com datas de início e término, permitindo o acompanhamento do calendário acadêmico.
 
 3. Registro de Notas e Frequência:
 
-• As notas dos alunos são registradas por disciplina, com cálculos automáticos da nota final.
+  • As notas dos alunos são registradas por disciplina, com cálculos automáticos da nota final.
 
-• A frequência dos alunos é monitorada, com registros de presenças e faltas.
+  • A frequência dos alunos é monitorada, com registros de presenças e faltas.
 
 4. Consultas e Análises:
 
-• O sistema permite a realização de consultas complexas para identificar alunos aprovados, em recuperação ou reprovados.
+  • O sistema permite a realização de consultas complexas para identificar alunos aprovados, em recuperação ou reprovados.
 
-• É possível analisar o desempenho dos alunos por disciplina, turma ou professor.
+  • É possível analisar o desempenho dos alunos por disciplina, turma ou professor.
 
-• Consultas específicas ajudam a identificar alunos com baixo desempenho ou alta frequência de faltas.
+  • Consultas específicas ajudam a identificar alunos com baixo desempenho ou alta frequência de faltas.
 
 
 Principais Resultados e Insights
 
 Durante o desenvolvimento do projeto, foram realizadas diversas consultas SQL para extrair informações relevantes. Alguns dos principais insights obtidos foram:
 
-• Distribuição de Notas: Identificamos que a maioria dos alunos está na faixa de notas entre 6 e 8, com alguns alunos alcançando notas acima de 9.
+  • Distribuição de Notas: Identificamos que a maioria dos alunos está na faixa de notas entre 6 e 8, com alguns alunos alcançando notas acima de 9.
 
-• Alunos em Recuperação e Reprovados: Cerca de 20% dos alunos estão em situação de reprovação, enquanto 10% estão em recuperação.
+  • Alunos em Recuperação e Reprovados: Cerca de 20% dos alunos estão em situação de reprovação, enquanto 10% estão em recuperação.
 
-• Correlação entre Presenças e Notas: A análise mostrou uma correlação positiva muito fraca entre o número de presenças e as notas finais, indicando que outros fatores podem influenciar o desempenho dos alunos.
+  • Correlação entre Presenças e Notas: A análise mostrou uma correlação positiva muito fraca entre o número de presenças e as notas finais, indicando que outros fatores podem influenciar o desempenho dos alunos.
 
-• Professores com Maior Desempenho: Professores como Yoruichi Shihouin e Riza Hawkeye têm turmas com as maiores médias de notas finais, sugerindo um impacto positivo de seus métodos de ensino.
+  • Professores com Maior Desempenho: Professores como Yoruichi Shihouin e Riza Hawkeye têm turmas com as maiores médias de notas finais, sugerindo um impacto positivo de seus métodos de ensino.
 
-Conclusão
+5. Conclusão
 
 O Projeto Sophia foi uma experiência enriquecedora que me permitiu aplicar conceitos avançados de banco de dados e SQL em um contexto prático. A estruturação do banco de dados, a inserção de dados e a realização de consultas complexas foram desafios que contribuíram significativamente para o meu aprendizado.
 
